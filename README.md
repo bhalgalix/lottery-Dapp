@@ -1,11 +1,6 @@
-# Voting App
+# Lottery Dapp
 
-This is a project that let people vote for candidates using Ethereum.
-
-## Description
-
-There are candidates that need to be declared on the compilation process. After that, each user can vote once to their desired candidate.
-
+This is a project that let people play a lottery game using Ethereum.
 
 
 ## Install:
